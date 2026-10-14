@@ -1,0 +1,1 @@
+This code will be used for the IEEE GRSS winter school, for deep learning-based building damage assessment in complex urban settings. The repository is adapted from existing open repositories for instructional purposes. Any inconsistencies or risks of deploying the scripts provided here in operational information extraction is solely the responsibility of the user 
